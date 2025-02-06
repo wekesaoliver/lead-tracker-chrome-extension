@@ -29,7 +29,7 @@ This project utilizes the following JavaScript concepts:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/lead-tracker-chrome-extension.git
+    git clone https://github.com/wekesaoliver/lead-tracker-chrome-extension.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" in the top right corner.

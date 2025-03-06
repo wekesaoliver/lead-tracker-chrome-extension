@@ -4,6 +4,8 @@
 
 The Lead Tracker Chrome Extension is a tool designed to help users efficiently track and manage their leads directly from their browser. This extension leverages various JavaScript concepts to provide a seamless and interactive user experience.
 
+![Lead Tracker](image/tracker.png)
+
 ## Features
 
 - **Add Leads**: Easily add new leads with a simple input form.
@@ -28,9 +30,9 @@ This project utilizes the following JavaScript concepts:
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/wekesaoliver/lead-tracker-chrome-extension.git
-    ```
+   ```sh
+   git clone https://github.com/yourusername/lead-tracker-chrome-extension.git
+   ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" in the top right corner.
 4. Click "Load unpacked" and select the cloned repository folder.
@@ -48,5 +50,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 
 This project is licensed under the MIT License.
-
- 
